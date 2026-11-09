@@ -1,0 +1,6 @@
+{
+  "name": "O Sulco Sagrado — Curadoria de Vinis Clássicos Sertanejos de Época",
+  "description": "Curadoria ultra-exclusiva de prensagens originais de época (anos 70, 80 e 90) em vinil impecável (NM/Mint) de clássicos sertanejos e da música raiz brasileira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
